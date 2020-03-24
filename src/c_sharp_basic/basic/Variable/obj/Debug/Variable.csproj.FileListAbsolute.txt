@@ -1,0 +1,12 @@
+D:\github\c_sharp_basic\src\c_sharp_\basic\Variable\bin\Debug\Variable.exe.config
+D:\github\c_sharp_basic\src\c_sharp_\basic\Variable\bin\Debug\Variable.exe
+D:\github\c_sharp_basic\src\c_sharp_\basic\Variable\bin\Debug\Variable.pdb
+D:\github\c_sharp_basic\src\c_sharp_\basic\Variable\obj\Debug\Variable.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_\basic\Variable\obj\Debug\Variable.exe
+D:\github\c_sharp_basic\src\c_sharp_\basic\Variable\obj\Debug\Variable.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Variable\bin\Debug\Variable.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Variable\bin\Debug\Variable.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Variable\bin\Debug\Variable.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Variable\obj\Debug\Variable.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Variable\obj\Debug\Variable.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Variable\obj\Debug\Variable.pdb

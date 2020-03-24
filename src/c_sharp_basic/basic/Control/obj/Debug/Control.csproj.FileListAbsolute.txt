@@ -1,0 +1,5 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Control\bin\Debug\Control.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Control\bin\Debug\Control.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Control\bin\Debug\Control.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Control\obj\Debug\Control.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Control\obj\Debug\Control.pdb

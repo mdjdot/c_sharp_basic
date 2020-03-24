@@ -1,0 +1,6 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Function\bin\Debug\Function.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Function\bin\Debug\Function.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Function\bin\Debug\Function.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Function\obj\Debug\Function.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Function\obj\Debug\Function.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Function\obj\Debug\Function.pdb

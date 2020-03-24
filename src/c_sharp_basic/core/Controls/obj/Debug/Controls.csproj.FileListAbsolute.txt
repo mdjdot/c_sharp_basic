@@ -1,0 +1,9 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\bin\Debug\Controls.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\bin\Debug\Controls.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\bin\Debug\Controls.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\obj\Debug\Controls.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\obj\Debug\Controls.Form_Main.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\obj\Debug\Controls.Properties.Resources.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\obj\Debug\Controls.csproj.GenerateResource.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\obj\Debug\Controls.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Controls\obj\Debug\Controls.pdb

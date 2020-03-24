@@ -1,0 +1,9 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\bin\Debug\GDI.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\bin\Debug\GDI.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\bin\Debug\GDI.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\obj\Debug\GDI.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\obj\Debug\GDI.Form1.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\obj\Debug\GDI.Properties.Resources.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\obj\Debug\GDI.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\GDI\obj\Debug\GDI.pdb

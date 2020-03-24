@@ -1,0 +1,10 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\bin\Debug\Forms.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\bin\Debug\Forms.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\bin\Debug\Forms.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.Form_Main.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\core\Forms\obj\Debug\Forms.Form_Sub.resources

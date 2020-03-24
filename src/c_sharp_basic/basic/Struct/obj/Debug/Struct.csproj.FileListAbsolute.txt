@@ -1,0 +1,5 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Struct\bin\Debug\Struct.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Struct\bin\Debug\Struct.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Struct\bin\Debug\Struct.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Struct\obj\Debug\Struct.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Struct\obj\Debug\Struct.pdb

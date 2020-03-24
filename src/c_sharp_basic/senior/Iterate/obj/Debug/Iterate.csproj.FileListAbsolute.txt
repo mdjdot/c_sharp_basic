@@ -1,0 +1,6 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Iterate\bin\Debug\Iterate.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Iterate\bin\Debug\Iterate.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Iterate\bin\Debug\Iterate.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Iterate\obj\Debug\Iterate.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Iterate\obj\Debug\Iterate.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Iterate\obj\Debug\Iterate.pdb

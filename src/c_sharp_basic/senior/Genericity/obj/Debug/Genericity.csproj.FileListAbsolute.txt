@@ -1,0 +1,6 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Genericity\bin\Debug\Genericity.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Genericity\bin\Debug\Genericity.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Genericity\bin\Debug\Genericity.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Genericity\obj\Debug\Genericity.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Genericity\obj\Debug\Genericity.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\senior\Genericity\obj\Debug\Genericity.pdb

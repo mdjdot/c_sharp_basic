@@ -1,0 +1,6 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\core\OOP\bin\Debug\OOP.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\core\OOP\bin\Debug\OOP.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\OOP\bin\Debug\OOP.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\core\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\OOP\obj\Debug\OOP.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\OOP\obj\Debug\OOP.pdb

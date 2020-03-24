@@ -1,0 +1,10 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\bin\Debug\Expression.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\bin\Debug\Expression.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\bin\Debug\Expression.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\obj\Debug\Expression.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\obj\Debug\Expression.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\bin\Debug\Expression.exe.manifest
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\bin\Debug\Expression.application
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\obj\Debug\Expression.TrustInfo.xml
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\obj\Debug\Expression.exe.manifest
+D:\github\c_sharp_basic\src\c_sharp_basic\basic\Expression\obj\Debug\Expression.application

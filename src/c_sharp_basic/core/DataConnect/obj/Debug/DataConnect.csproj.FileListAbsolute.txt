@@ -1,0 +1,9 @@
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\obj\Debug\DataConnect.csprojAssemblyReference.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\obj\Debug\DataConnect.Form_Main.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\obj\Debug\DataConnect.Properties.Resources.resources
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\obj\Debug\DataConnect.csproj.GenerateResource.cache
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\bin\Debug\DataConnect.exe.config
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\bin\Debug\DataConnect.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\bin\Debug\DataConnect.pdb
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\obj\Debug\DataConnect.exe
+D:\github\c_sharp_basic\src\c_sharp_basic\core\DataConnect\obj\Debug\DataConnect.pdb
